@@ -4,7 +4,7 @@ import inspect
 
 class Constant:
     # GitHub user name
-    USERNAME = 'Luolc'
+    USERNAME = 'Eurus-Holmes'
 
     # The amount of tasks to each every day
     CRON_CONFIG = {
