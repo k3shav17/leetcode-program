@@ -10,7 +10,7 @@ which questions to solve, creating issue for today's task...
 
 ## My Solutions
 
-Feel free to check my solutions of LeetCode questions on [http://www.luolc.com/leetcode-program/](http://www.luolc.com/leetcode-program/). :D
+Feel free to check my solutions of LeetCode questions on [https://chenfeiyang.top/categories/Leetcode/](https://chenfeiyang.top/categories/Leetcode/). :D
 
 ## Setup
 
