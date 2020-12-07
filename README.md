@@ -1,6 +1,6 @@
 # LeetCode Program
 
-[![Build Status](https://travis-ci.org/Luolc/leetcode-program.svg?branch=master)](https://travis-ci.org/Luolc/leetcode-program)
+[![Build Status](https://travis-ci.com/Eurus-Holmes/leetcode-program.svg?branch=master)](https://travis-ci.com/Eurus-Holmes/leetcode-program)
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
 ![PullRequest](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
