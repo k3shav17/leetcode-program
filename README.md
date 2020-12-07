@@ -48,7 +48,7 @@ $ python3 core/core.py update_local_questions --js_path=/usr/local/bin/phantomjs
 
 > `js_path` represents the path to [PhantomJS](http://phantomjs.org/). You have to prepare it in advance.
 >
-> If you are MacOS user, just simply use `$ brew install phantonjs` to download it.
+> If you are MacOS user, just simply use `$ brew install phantomjs` to download it.
 
 ### Create random daily tasks
 
@@ -70,7 +70,7 @@ The generated solutions would be in `build` folder.
 $ python3 core/core.py generate_solutions
 ```
 
-With the help of Travis-CI, the solutions would be deployed to [GitHub Pages of this repository](http://www.luolc.com/leetcode-program/).
+With the help of Travis-CI, the solutions would be deployed to [GitHub Pages of this repository](https://chenfeiyang.top/leetcode-program/).
 
 ## To-Do List
 
