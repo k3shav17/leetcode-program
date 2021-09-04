@@ -8,8 +8,8 @@ class Constant:
 
     # The amount of tasks to each every day
     CRON_CONFIG = {
-        'Easy': 0,
-        'Medium': 0,
+        'Easy': 1,
+        'Medium': 1,
         'Hard': 1,
     }
 
