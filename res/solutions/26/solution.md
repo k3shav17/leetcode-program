@@ -1,0 +1,2 @@
+1. Two pointer variable - one is to loop through the array
+2. another variable is to assign the value from the beginning of the array only if the value is unique and keep increment only for every unique element found
