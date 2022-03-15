@@ -8,9 +8,9 @@ class Constant:
 
     # The amount of tasks to each every day
     CRON_CONFIG = {
-        'Easy': 1,
+        'Easy': 0,
         'Medium': 1,
-        'Hard': 1,
+        'Hard': 2,
     }
 
     ROOT_PATH = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe()))) + '/../'
